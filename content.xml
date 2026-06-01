@@ -1,0 +1,1890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202606012055140FONN5</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260601205514Z45YMH</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>La conservación de la posidonia</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Los guardianes de la posidonia</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María Gloria Ruiz Gutiérrez </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Trabajar con los niños/as la importancia que tiene la posidonia para la vida marina nos permite realizar un proyecto significativo para ellos por estar ubicados en la costa mediterránea, de este modo los acercamos al patrimonio natural de nuestra provincia, aprovechando las oportunidades de aprendizaje que nos ofrece lo cotidiano.
+Se desarrollarán actividades que nos permita profundizar en la temática mediante el uso de diversos métodos: la observación, exploración, etc. para contribuir a su autonomía, emprendimiento y responsabilidad.
+Está dirigida a alumnado TEA cuyo referente curricular es 1º de Educación Primaria.
+Se trabajan las áreas de Conocimiento del Medio Natural, Social y Cultural y Lengua Castellana y Literatura. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780340056904</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpvkfydy-0kawt411r</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Portada</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Portada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Portada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Portada</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpvkfydy-0kawt411r</odePageId>
+      <odeBlockId>block-1780165526981-91n21oygn</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvkfydy-0kawt411r</odePageId>
+          <odeBlockId>block-1780165526981-91n21oygn</odeBlockId>
+          <odeIdeviceId>idevice-1780165526977-anxzkl569</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Aprendemos juntos: exploramos nuestro entorno</strong><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780165526977-anxzkl569","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Aprendemos juntos: exploramos nuestro entorno</strong><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpvkfydy-0kawt411r</odePageId>
+      <odeBlockId>block-1780165938145-o6p438r0a</odeBlockId>
+      <blockName>Autoría</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvkfydy-0kawt411r</odePageId>
+          <odeBlockId>block-1780165938145-o6p438r0a</odeBlockId>
+          <odeIdeviceId>idevice-1780165938141-ku7h8pdot</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 12pt;">María Gloria Ruiz Gutiérrez </span><br /><span style="font-size: 12pt;">Curso 2026-2027</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780165938141-ku7h8pdot","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 12pt;\">María Gloria Ruiz Gutiérrez </span><br /><span style=\"font-size: 12pt;\">Curso 2026-2027</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpvkfydy-0kawt411r</odePageId>
+      <odeBlockId>block-1780165991204-c1rgkzyci</odeBlockId>
+      <blockName>Descripción de la Situación de Aprendizaje</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvkfydy-0kawt411r</odePageId>
+          <odeBlockId>block-1780165991204-c1rgkzyci</odeBlockId>
+          <odeIdeviceId>idevice-1780165991201-qxjzu3jtv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 12pt;">Este proyecto está diseñado para alumnado d con necesidades educativas asociadas al Trastorno del Espectro Autista (TEA) cuyo referente curricular será 1º de Educación Primaria.</span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;">Se trabajan las áreas de Conocimiento del Medio Natural, Social y Cultural y Lengua Castellana y Literatura mediante actividades visuales, estructuradas y motivadoras que favorecen la comprensión, la participación y la autonomía de alumnado.</span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;"> </span></p>
+<figure class="exe-figure position-center" style="width: 600px;"><img src="{{context_path}}/content/resources/captura_de_pantalla_2024_08_27_a_las_12_40_08.jpg" width="600" height="252" alt="" />
+<figcaption class="figcaption">                    <span style="font-size: 12pt;"> <a href="Alicia Nimo Liboreiro. Organización del aula" class="title" target="_blank" rel="noopener"><em>Alicia Nimo Liboreiro. Organización del aula</em></a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-SA</a><span class="sep">)</span></span></span></figcaption>
+</figure>
+<p><span style="font-size: 12pt;"> </span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780165991201-qxjzu3jtv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">Este proyecto está diseñado para alumnado d con necesidades educativas asociadas al Trastorno del Espectro Autista (TEA) cuyo referente curricular será 1º de Educación Primaria.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">Se trabajan las áreas de Conocimiento del Medio Natural, Social y Cultural y Lengua Castellana y Literatura mediante actividades visuales, estructuradas y motivadoras que favorecen la comprensión, la participación y la autonomía de alumnado.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\"> </span></p>\n<figure class=\"exe-figure position-center\" style=\"width: 600px;\"><img src=\"{{context_path}}/content/resources/captura_de_pantalla_2024_08_27_a_las_12_40_08.jpg\" width=\"600\" height=\"252\" alt=\"\" />\n<figcaption class=\"figcaption\">                    <span style=\"font-size: 12pt;\"> <a href=\"Alicia Nimo Liboreiro. Organización del aula\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>Alicia Nimo Liboreiro. Organización del aula</em></a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-SA</a><span class=\"sep\">)</span></span></span></figcaption>\n</figure>\n<p><span style=\"font-size: 12pt;\"> </span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpvkfye2-fgk1fpjmg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpvkfye2-fgk1fpjmg</odePageId>
+      <odeBlockId>block-1780166950398-ukq4bpc6c</odeBlockId>
+      <blockName>PRESENTACIÓN</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvkfye2-fgk1fpjmg</odePageId>
+          <odeBlockId>block-1780166950398-ukq4bpc6c</odeBlockId>
+          <odeIdeviceId>idevice-1780166950393-n9r1kbe6m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 12pt;">Trabajaremos de forma conjunta las áreas de Conocimiento del Medio Natural, Social y Cultural y Lengua Castellana y Literatura mediante actividades visuales, estructuradas y motivadoras.</span></p>
+<p><span style="font-size: 12pt;">El objetivo es que el alumnado aprenda a:</span></p>
+<p><span style="font-size: 12pt;">- Conocer su entorno cercano.</span><br /><span style="font-size: 12pt;">- Mejorar su comunicación.</span><br /><span style="font-size: 12pt;">- Participar en actividades de aula de forma guiada y autónoma.</span></p>
+<p><span style="font-size: 12pt;">🎯<strong> RETO DE LA SITUACIÓN DE APRENDIZAJE </strong></span><br /><span style="font-size: 12pt;">Elaboraremos un producto final sencillo y visual que nos ayudará a demostrar lo que hemos aprendido. Se trata de una guía interactiva sobre cómo cuidar y proteger a la posidonia. Para ello utilizaremos la herramienta Book Creator. </span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;">💡 <strong>METODOLOGÍA</strong></span><br /><span style="font-size: 12pt;">Trabajaremos con apoyos visuales, rutinas claras y actividades paso a paso para facilitar la comprensión y la participación de todo el alumnado.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780166950393-n9r1kbe6m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">Trabajaremos de forma conjunta las áreas de Conocimiento del Medio Natural, Social y Cultural y Lengua Castellana y Literatura mediante actividades visuales, estructuradas y motivadoras.</span></p>\n<p><span style=\"font-size: 12pt;\">El objetivo es que el alumnado aprenda a:</span></p>\n<p><span style=\"font-size: 12pt;\">- Conocer su entorno cercano.</span><br /><span style=\"font-size: 12pt;\">- Mejorar su comunicación.</span><br /><span style=\"font-size: 12pt;\">- Participar en actividades de aula de forma guiada y autónoma.</span></p>\n<p><span style=\"font-size: 12pt;\">🎯<strong> RETO DE LA SITUACIÓN DE APRENDIZAJE </strong></span><br /><span style=\"font-size: 12pt;\">Elaboraremos un producto final sencillo y visual que nos ayudará a demostrar lo que hemos aprendido. Se trata de una guía interactiva sobre cómo cuidar y proteger a la posidonia. Para ello utilizaremos la herramienta Book Creator. </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">💡 <strong>METODOLOGÍA</strong></span><br /><span style=\"font-size: 12pt;\">Trabajaremos con apoyos visuales, rutinas claras y actividades paso a paso para facilitar la comprensión y la participación de todo el alumnado.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpvkfye3-oi24dl092</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos personales</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos personales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos personales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpvkfye3-oi24dl092</odePageId>
+      <odeBlockId>block-1780168057076-tf00cx8re</odeBlockId>
+      <blockName>Infografía</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvkfye3-oi24dl092</odePageId>
+          <odeBlockId>block-1780168057076-tf00cx8re</odeBlockId>
+          <odeIdeviceId>idevice-1780168057067-ovo8abmpy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 12pt;">Es importante proteger nuestros datos para estar seguros en internet, evitar que otras personas los utilicen sin permiso y cuidar nuestra identidad digital. Por eso, debemos aprender a usar internet de forma responsable y segura.</span></p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/mceclip1.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780168057067-ovo8abmpy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">Es importante proteger nuestros datos para estar seguros en internet, evitar que otras personas los utilicen sin permiso y cuidar nuestra identidad digital. Por eso, debemos aprender a usar internet de forma responsable y segura.</span></p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/mceclip1.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpvkfye4-58nh11u3b</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpvkfye4-58nh11u3b</odePageId>
+      <odeBlockId>block-1780211622946-h4nn2u1dm</odeBlockId>
+      <blockName>¿Qué vamos a crear?</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvkfye4-58nh11u3b</odePageId>
+          <odeBlockId>block-1780211622946-h4nn2u1dm</odeBlockId>
+          <odeIdeviceId>idevice-1780211622941-nqkuec6su</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 12pt;">Nuestro producto final: Guía interactiva para cuidar la posidonia</span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;">Durante este proyecto nos convertiremos en <strong>guardianes y guardianas de la posidonia.</strong></span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;">Crearemos una guía interactiva digital con Book Creator donde recogeremos todo lo que aprendamos sobre la posidonia, su importancia para el mar y las acciones que podemos realizar para protegerla.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780211622941-nqkuec6su","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">Nuestro producto final: Guía interactiva para cuidar la posidonia</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">Durante este proyecto nos convertiremos en <strong>guardianes y guardianas de la posidonia.</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">Crearemos una guía interactiva digital con Book Creator donde recogeremos todo lo que aprendamos sobre la posidonia, su importancia para el mar y las acciones que podemos realizar para protegerla.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpvkfye4-58nh11u3b</odePageId>
+      <odeBlockId>block-1780211819727-7r0553037</odeBlockId>
+      <blockName>¿Qué tendrá nuestra guía?</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvkfye4-58nh11u3b</odePageId>
+          <odeBlockId>block-1780211819727-7r0553037</odeBlockId>
+          <odeIdeviceId>idevice-1780211819722-m93t98ujw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 12pt;">🟩 ¿Qué es la posidonia?</span><br /><span style="font-size: 12pt;">Aprenderemos qué es esta planta marina y dónde vive.</span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;">🟦 ¿Por qué es importante?</span><br /><span style="font-size: 12pt;">Descubriremos cómo ayuda a los animales y mantiene limpia el agua.</span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;">🟨 ¿Cómo la cuidamos?</span><br /><span style="font-size: 12pt;">Conoceremos acciones para protegerla cuando visitamos la playa.</span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;">🟪 Recogemos residuos</span><br /><span style="font-size: 12pt;">Aprenderemos a mantener limpias las playas.</span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;">🟥 Compartimos lo aprendido</span><br /><span style="font-size: 12pt;">Mostraremos nuestra guía a las familias y al colegio.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780211819722-m93t98ujw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">🟩 ¿Qué es la posidonia?</span><br /><span style=\"font-size: 12pt;\">Aprenderemos qué es esta planta marina y dónde vive.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">🟦 ¿Por qué es importante?</span><br /><span style=\"font-size: 12pt;\">Descubriremos cómo ayuda a los animales y mantiene limpia el agua.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">🟨 ¿Cómo la cuidamos?</span><br /><span style=\"font-size: 12pt;\">Conoceremos acciones para protegerla cuando visitamos la playa.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">🟪 Recogemos residuos</span><br /><span style=\"font-size: 12pt;\">Aprenderemos a mantener limpias las playas.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">🟥 Compartimos lo aprendido</span><br /><span style=\"font-size: 12pt;\">Mostraremos nuestra guía a las familias y al colegio.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpvkfye5-vxkbb6f6p</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpvkfye5-vxkbb6f6p</odePageId>
+      <odeBlockId>block-1780212025679-eso5nrzxv</odeBlockId>
+      <blockName>Recursos para el profesorado</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvkfye5-vxkbb6f6p</odePageId>
+          <odeBlockId>block-1780212025679-eso5nrzxv</odeBlockId>
+          <odeIdeviceId>idevice-1780212025675-p6z1bfrq6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 12pt;">En este espacio se recopilan recursos de interés para el profesorado relacionados con la conservación de la posidonia. Estos materiales permiten ampliar información, preparar actividades y adaptar los contenidos a las necesidades del alumnado.</span></p>
+<p><span style="font-size: 12pt;"><a href="https://glorg23.symbaloo.com/home/mix/13eP2K4Y3R">https://glorg23.symbaloo.com/home/mix/13eP2K4Y3R</a></span><span style="font-size: 12pt;"></span></p>
+<p><br /></p>
+<p><span style="font-size: 12pt;"></span><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780212025675-p6z1bfrq6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 12pt;\">En este espacio se recopilan recursos de interés para el profesorado relacionados con la conservación de la posidonia. Estos materiales permiten ampliar información, preparar actividades y adaptar los contenidos a las necesidades del alumnado.</span></p>\n<p><span style=\"font-size: 12pt;\"><a href=\"https://glorg23.symbaloo.com/home/mix/13eP2K4Y3R\">https://glorg23.symbaloo.com/home/mix/13eP2K4Y3R</a></span><span style=\"font-size: 12pt;\"></span></p>\n<p><br /></p>\n<p><span style=\"font-size: 12pt;\"></span><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpvkfye5-vxkbb6f6p</odePageId>
+      <odeBlockId>block-1780212848202-bf5rr3ff6</odeBlockId>
+      <blockName>Recursos para el alumnado</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvkfye5-vxkbb6f6p</odePageId>
+          <odeBlockId>block-1780212848202-bf5rr3ff6</odeBlockId>
+          <odeIdeviceId>idevice-1780212848197-ca8n5rkkw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 12pt;">En esta sección encontrarás recursos adaptados para ayudarte a conocer mejor la posidonia y aprender cómo proteger el mar y las playas.</span></p>
+<div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/rh69stmtjz71m1gi" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write" data-mce-fragment="1"></iframe></p>
+</div>
+<p></p>
+<p><span style="font-size: 12pt;"></span><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780212848197-ca8n5rkkw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 12pt;\">En esta sección encontrarás recursos adaptados para ayudarte a conocer mejor la posidonia y aprender cómo proteger el mar y las playas.</span></p>\n<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/rh69stmtjz71m1gi\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\" data-mce-fragment=\"1\"></iframe></p>\n</div>\n<p></p>\n<p><span style=\"font-size: 12pt;\"></span><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpvkfye6-5k0a85k04</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal </pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpvkfye6-5k0a85k04</odePageId>
+      <odeBlockId>block-1780223099134-anikdrz60</odeBlockId>
+      <blockName>Línea temporal de la situación de aprendizaje</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvkfye6-5k0a85k04</odePageId>
+          <odeBlockId>block-1780223099134-anikdrz60</odeBlockId>
+          <odeIdeviceId>idevice-1780223099129-zrr06m5ut</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 12pt;">🧭 Organización general</span><br /><span style="font-size: 12pt;">El proyecto se desarrollará a lo largo de varias sesiones, en las que el alumnado irá avanzando desde la exploración inicial hasta la creación del producto final. Cada fase está diseñada para favorecer el aprendizaje progresivo, la colaboración y la reflexión.</span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;">⏱️ Secuenciación de sesiones</span><br /><span style="font-size: 12pt;">🟢 Fase 1: Introducción y activación (Sesiones 1–2)</span><br /><span style="font-size: 12pt;">Presentación del proyecto y del producto final</span><br /><span style="font-size: 12pt;">Activación de conocimientos previos</span><br /><span style="font-size: 12pt;">Exploración del tema mediante ejemplos reales</span><br /><span style="font-size: 12pt;">Organización de equipos de trabajo</span><br /><span style="font-size: 12pt;">📌 Objetivo: comprender qué se va a hacer y por qué es importante.</span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;">🔵 Fase 2: Investigación y curación de contenidos (Sesiones 3–5)</span><br /><span style="font-size: 12pt;">Búsqueda de información en fuentes fiables</span><br /><span style="font-size: 12pt;">Uso de herramientas de curación de contenidos (docente y alumnado)</span><br /><span style="font-size: 12pt;">Selección y organización de recursos</span><br /><span style="font-size: 12pt;">Análisis crítico de la información</span><br /><span style="font-size: 12pt;">📌 Objetivo: aprender a seleccionar información relevante y fiable.</span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;">🟣 Fase 3: Planificación del producto final (Sesiones 6–7)</span><br /><span style="font-size: 12pt;">Diseño del guion o estructura del producto</span><br /><span style="font-size: 12pt;">Reparto de roles dentro del grupo</span><br /><span style="font-size: 12pt;">Elaboración de borradores</span><br /><span style="font-size: 12pt;">Revisión guiada del docente</span><br /><span style="font-size: 12pt;">📌 Objetivo: planificar el trabajo antes de la producción.</span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;">🟠 Fase 4: Producción del producto final (Sesiones 8–10)</span><br /><span style="font-size: 12pt;">Creación del producto final (vídeo, podcast, presentación, etc.)</span><br /><span style="font-size: 12pt;">Uso de herramientas digitales</span><br /><span style="font-size: 12pt;">Aplicación de los contenidos aprendidos</span><br /><span style="font-size: 12pt;">Revisión continua del trabajo</span><br /><span style="font-size: 12pt;">📌 Objetivo: desarrollar el producto final de forma colaborativa.</span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;">🔴 Fase 5: Presentación y difusión (Sesión 11)</span><br /><span style="font-size: 12pt;">Presentación de los productos finales</span><br /><span style="font-size: 12pt;">Exposición oral o digital</span><br /><span style="font-size: 12pt;">Retroalimentación entre iguales</span><br /><span style="font-size: 12pt;">Reflexión final del proceso</span><br /><span style="font-size: 12pt;">📌 Objetivo: comunicar el trabajo realizado y valorar el aprendizaje.</span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;">⚫ Fase 6: Evaluación y cierre (Sesión 12)</span><br /><span style="font-size: 12pt;">Autoevaluación y coevaluación</span><br /><span style="font-size: 12pt;">Evaluación del docente</span><br /><span style="font-size: 12pt;">Análisis de fortalezas y mejoras</span><br /><span style="font-size: 12pt;">Cierre del proyecto</span><br /><span style="font-size: 12pt;">📌 Objetivo: reflexionar sobre el aprendizaje alcanzado.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780223099129-zrr06m5ut","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">🧭 Organización general</span><br /><span style=\"font-size: 12pt;\">El proyecto se desarrollará a lo largo de varias sesiones, en las que el alumnado irá avanzando desde la exploración inicial hasta la creación del producto final. Cada fase está diseñada para favorecer el aprendizaje progresivo, la colaboración y la reflexión.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">⏱️ Secuenciación de sesiones</span><br /><span style=\"font-size: 12pt;\">🟢 Fase 1: Introducción y activación (Sesiones 1–2)</span><br /><span style=\"font-size: 12pt;\">Presentación del proyecto y del producto final</span><br /><span style=\"font-size: 12pt;\">Activación de conocimientos previos</span><br /><span style=\"font-size: 12pt;\">Exploración del tema mediante ejemplos reales</span><br /><span style=\"font-size: 12pt;\">Organización de equipos de trabajo</span><br /><span style=\"font-size: 12pt;\">📌 Objetivo: comprender qué se va a hacer y por qué es importante.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">🔵 Fase 2: Investigación y curación de contenidos (Sesiones 3–5)</span><br /><span style=\"font-size: 12pt;\">Búsqueda de información en fuentes fiables</span><br /><span style=\"font-size: 12pt;\">Uso de herramientas de curación de contenidos (docente y alumnado)</span><br /><span style=\"font-size: 12pt;\">Selección y organización de recursos</span><br /><span style=\"font-size: 12pt;\">Análisis crítico de la información</span><br /><span style=\"font-size: 12pt;\">📌 Objetivo: aprender a seleccionar información relevante y fiable.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">🟣 Fase 3: Planificación del producto final (Sesiones 6–7)</span><br /><span style=\"font-size: 12pt;\">Diseño del guion o estructura del producto</span><br /><span style=\"font-size: 12pt;\">Reparto de roles dentro del grupo</span><br /><span style=\"font-size: 12pt;\">Elaboración de borradores</span><br /><span style=\"font-size: 12pt;\">Revisión guiada del docente</span><br /><span style=\"font-size: 12pt;\">📌 Objetivo: planificar el trabajo antes de la producción.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">🟠 Fase 4: Producción del producto final (Sesiones 8–10)</span><br /><span style=\"font-size: 12pt;\">Creación del producto final (vídeo, podcast, presentación, etc.)</span><br /><span style=\"font-size: 12pt;\">Uso de herramientas digitales</span><br /><span style=\"font-size: 12pt;\">Aplicación de los contenidos aprendidos</span><br /><span style=\"font-size: 12pt;\">Revisión continua del trabajo</span><br /><span style=\"font-size: 12pt;\">📌 Objetivo: desarrollar el producto final de forma colaborativa.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">🔴 Fase 5: Presentación y difusión (Sesión 11)</span><br /><span style=\"font-size: 12pt;\">Presentación de los productos finales</span><br /><span style=\"font-size: 12pt;\">Exposición oral o digital</span><br /><span style=\"font-size: 12pt;\">Retroalimentación entre iguales</span><br /><span style=\"font-size: 12pt;\">Reflexión final del proceso</span><br /><span style=\"font-size: 12pt;\">📌 Objetivo: comunicar el trabajo realizado y valorar el aprendizaje.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">⚫ Fase 6: Evaluación y cierre (Sesión 12)</span><br /><span style=\"font-size: 12pt;\">Autoevaluación y coevaluación</span><br /><span style=\"font-size: 12pt;\">Evaluación del docente</span><br /><span style=\"font-size: 12pt;\">Análisis de fortalezas y mejoras</span><br /><span style=\"font-size: 12pt;\">Cierre del proyecto</span><br /><span style=\"font-size: 12pt;\">📌 Objetivo: reflexionar sobre el aprendizaje alcanzado.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpvkfye6-5k0a85k04</odePageId>
+      <odeBlockId>block-1780223233215-or6yw1t5y</odeBlockId>
+      <blockName>Enfoque DUA</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvkfye6-5k0a85k04</odePageId>
+          <odeBlockId>block-1780223233215-or6yw1t5y</odeBlockId>
+          <odeIdeviceId>idevice-1780223233210-s9wam61lg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 12pt;">La línea temporal se ha diseñado para:</span></p>
+<p><span style="font-size: 12pt;">- Favorecer distintos ritmos de aprendizaje</span><br /><span style="font-size: 12pt;">- Permitir el trabajo colaborativo y flexible</span><br /><span style="font-size: 12pt;">- Ofrecer múltiples formas de participación</span><br /><span style="font-size: 12pt;">- Adaptarse a la diversidad del aula</span></p>
+<p><span style="font-size: 12pt;"><img src="{{context_path}}/content/resources/mceclip0.jpg" /></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780223233210-s9wam61lg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 12pt;\">La línea temporal se ha diseñado para:</span></p>\n<p><span style=\"font-size: 12pt;\">- Favorecer distintos ritmos de aprendizaje</span><br /><span style=\"font-size: 12pt;\">- Permitir el trabajo colaborativo y flexible</span><br /><span style=\"font-size: 12pt;\">- Ofrecer múltiples formas de participación</span><br /><span style=\"font-size: 12pt;\">- Adaptarse a la diversidad del aula</span></p>\n<p><span style=\"font-size: 12pt;\"><img src=\"{{context_path}}/content/resources/mceclip0.jpg\" /></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpvkfye8-xzj04iifr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpvkfye8-xzj04iifr</odePageId>
+      <odeBlockId>block-1780223778416-a3e0rk9cb</odeBlockId>
+      <blockName>Criterios de evaluación del aprendizaje</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvkfye8-xzj04iifr</odePageId>
+          <odeBlockId>block-1780223778416-a3e0rk9cb</odeBlockId>
+          <odeIdeviceId>idevice-1780223778410-9o6a42adc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 12pt;">🧭 Relación entre tareas y criterios de evaluación</span></p>
+<p><span style="font-size: 12pt;">Algunas de las actividades tipo que se llevarán a cabo durante la Situación de Aprendizaje, son las siguientes: </span></p>
+<table border="1" style="width: 100.023%; height: 447.2px;">
+<tbody>
+<tr style="height: 37.6px;">
+<td style="width: 19.9956%; height: 37.6px;"><span style="font-size: 10pt;">🧩 Tarea / Actividad</span></td>
+<td style="width: 21.2744%; height: 37.6px;"><span style="font-size: 10pt;">🎯 Criterios de evaluación</span></td>
+<td style="width: 18.7168%; height: 37.6px;"><span style="font-size: 10pt;">👥 Agrupamiento</span></td>
+<td style="width: 19.9956%; height: 37.6px;"><span style="font-size: 10pt;">⏱️ Tiempo</span></td>
+<td style="width: 19.9956%; height: 37.6px;"><span style="font-size: 10pt;">💻 Herramienta</span></td>
+</tr>
+<tr style="height: 95.2px;">
+<td style="width: 19.9956%; height: 95.2px;"><span style="font-size: 10pt;">“El mar” – Localizamos la playa más cercana al centro.</span></td>
+<td style="width: 21.2744%; height: 95.2px;"><span style="font-size: 10pt;">LCYL 3.2.a<br />LCYL 5.1.a</span></td>
+<td style="width: 18.7168%; height: 95.2px;"><span style="font-size: 10pt;">Parejas</span><br /></td>
+<td style="width: 19.9956%; height: 95.2px;">
+<p><span style="font-size: 10pt;">1 sesión</span></p>
+</td>
+<td style="width: 19.9956%; height: 95.2px;"><span style="font-size: 10pt;">Google Maps</span><br /></td>
+</tr>
+<tr style="height: 124px;">
+<td style="width: 19.9956%; height: 124px;"><span style="font-size: 10pt;">“Sol, arena y sal” – Escribimos emails a empresas de</span> <span style="font-size: 10pt;">autobuses</span></td>
+<td style="width: 21.2744%; height: 124px;"><span style="font-size: 10pt;">LCYL 3.2.a<br />LCYL 4.1.a<br />LCYL 5.1.a<br />CMNSYC 6.1.a</span><br /></td>
+<td style="width: 18.7168%; height: 124px;"><span style="font-size: 10pt;">Grupal</span><br /></td>
+<td style="width: 19.9956%; height: 124px;"><span style="font-size: 10pt;">2 sesiones</span><br /></td>
+<td style="width: 19.9956%; height: 124px;"><span style="font-size: 10pt;">Gmail</span><br /></td>
+</tr>
+<tr style="height: 95.2px;">
+<td style="width: 19.9956%; height: 95.2px;"><span style="font-size: 10pt;">“Detectives del reciclaje” – Identificación de residuos en el patio</span><br /></td>
+<td style="width: 21.2744%; height: 95.2px;"><span style="font-size: 10pt;">LCYL 5.1.a</span><br /><span style="font-size: 10pt;">CMNSYC 6.1.a</span></td>
+<td style="width: 18.7168%; height: 95.2px;"><span style="font-size: 10pt;">Grupal</span><br /></td>
+<td style="width: 19.9956%; height: 95.2px;"><span style="font-size: 10pt;">1 sesión </span><br /></td>
+<td style="width: 19.9956%; height: 95.2px;"><span style="font-size: 10pt;">Google Lens</span><br /></td>
+</tr>
+<tr style="height: 95.2px;">
+<td style="width: 19.9956%; height: 95.2px;"><span style="font-size: 10pt;">"¿En qué contenedor va?” – Juego interactivo de reciclaje</span><br /></td>
+<td style="width: 21.2744%; height: 95.2px;"><span style="font-size: 10pt;">CMNSYC 6.1.a</span></td>
+<td style="width: 18.7168%; height: 95.2px;"><span style="font-size: 10pt;">Individual</span><br /></td>
+<td style="width: 19.9956%; height: 95.2px;"><span style="font-size: 10pt;">1 sesión</span></td>
+<td style="width: 19.9956%; height: 95.2px;"><span style="font-size: 10pt;">Genially </span></td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780223778410-9o6a42adc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 12pt;\">🧭 Relación entre tareas y criterios de evaluación</span></p>\n<p><span style=\"font-size: 12pt;\">Algunas de las actividades tipo que se llevarán a cabo durante la Situación de Aprendizaje, son las siguientes: </span></p>\n<table border=\"1\" style=\"width: 100.023%; height: 447.2px;\">\n<tbody>\n<tr style=\"height: 37.6px;\">\n<td style=\"width: 19.9956%; height: 37.6px;\"><span style=\"font-size: 10pt;\">🧩 Tarea / Actividad</span></td>\n<td style=\"width: 21.2744%; height: 37.6px;\"><span style=\"font-size: 10pt;\">🎯 Criterios de evaluación</span></td>\n<td style=\"width: 18.7168%; height: 37.6px;\"><span style=\"font-size: 10pt;\">👥 Agrupamiento</span></td>\n<td style=\"width: 19.9956%; height: 37.6px;\"><span style=\"font-size: 10pt;\">⏱️ Tiempo</span></td>\n<td style=\"width: 19.9956%; height: 37.6px;\"><span style=\"font-size: 10pt;\">💻 Herramienta</span></td>\n</tr>\n<tr style=\"height: 95.2px;\">\n<td style=\"width: 19.9956%; height: 95.2px;\"><span style=\"font-size: 10pt;\">“El mar” – Localizamos la playa más cercana al centro.</span></td>\n<td style=\"width: 21.2744%; height: 95.2px;\"><span style=\"font-size: 10pt;\">LCYL 3.2.a<br />LCYL 5.1.a</span></td>\n<td style=\"width: 18.7168%; height: 95.2px;\"><span style=\"font-size: 10pt;\">Parejas</span><br /></td>\n<td style=\"width: 19.9956%; height: 95.2px;\">\n<p><span style=\"font-size: 10pt;\">1 sesión</span></p>\n</td>\n<td style=\"width: 19.9956%; height: 95.2px;\"><span style=\"font-size: 10pt;\">Google Maps</span><br /></td>\n</tr>\n<tr style=\"height: 124px;\">\n<td style=\"width: 19.9956%; height: 124px;\"><span style=\"font-size: 10pt;\">“Sol, arena y sal” – Escribimos emails a empresas de</span> <span style=\"font-size: 10pt;\">autobuses</span></td>\n<td style=\"width: 21.2744%; height: 124px;\"><span style=\"font-size: 10pt;\">LCYL 3.2.a<br />LCYL 4.1.a<br />LCYL 5.1.a<br />CMNSYC 6.1.a</span><br /></td>\n<td style=\"width: 18.7168%; height: 124px;\"><span style=\"font-size: 10pt;\">Grupal</span><br /></td>\n<td style=\"width: 19.9956%; height: 124px;\"><span style=\"font-size: 10pt;\">2 sesiones</span><br /></td>\n<td style=\"width: 19.9956%; height: 124px;\"><span style=\"font-size: 10pt;\">Gmail</span><br /></td>\n</tr>\n<tr style=\"height: 95.2px;\">\n<td style=\"width: 19.9956%; height: 95.2px;\"><span style=\"font-size: 10pt;\">“Detectives del reciclaje” – Identificación de residuos en el patio</span><br /></td>\n<td style=\"width: 21.2744%; height: 95.2px;\"><span style=\"font-size: 10pt;\">LCYL 5.1.a</span><br /><span style=\"font-size: 10pt;\">CMNSYC 6.1.a</span></td>\n<td style=\"width: 18.7168%; height: 95.2px;\"><span style=\"font-size: 10pt;\">Grupal</span><br /></td>\n<td style=\"width: 19.9956%; height: 95.2px;\"><span style=\"font-size: 10pt;\">1 sesión </span><br /></td>\n<td style=\"width: 19.9956%; height: 95.2px;\"><span style=\"font-size: 10pt;\">Google Lens</span><br /></td>\n</tr>\n<tr style=\"height: 95.2px;\">\n<td style=\"width: 19.9956%; height: 95.2px;\"><span style=\"font-size: 10pt;\">\"¿En qué contenedor va?” – Juego interactivo de reciclaje</span><br /></td>\n<td style=\"width: 21.2744%; height: 95.2px;\"><span style=\"font-size: 10pt;\">CMNSYC 6.1.a</span></td>\n<td style=\"width: 18.7168%; height: 95.2px;\"><span style=\"font-size: 10pt;\">Individual</span><br /></td>\n<td style=\"width: 19.9956%; height: 95.2px;\"><span style=\"font-size: 10pt;\">1 sesión</span></td>\n<td style=\"width: 19.9956%; height: 95.2px;\"><span style=\"font-size: 10pt;\">Genially </span></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpvkfye8-xzj04iifr</odePageId>
+      <odeBlockId>block-1780224504884-ybq2e0y6w</odeBlockId>
+      <blockName>Criterios de evaluación de la práctica docente</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvkfye8-xzj04iifr</odePageId>
+          <odeBlockId>block-1780224504884-ybq2e0y6w</odeBlockId>
+          <odeIdeviceId>idevice-1780224504880-956l42s6d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 12pt;">Para valorar el desarrollo de la situación de aprendizaje y mejorar la intervención educativa, se utilizará una lista de cotejo basada en la observación directa:</span></p>
+<p><span style="font-size: 12pt;">✔ Se han preparado previamente los dispositivos y aplicaciones necesarias</span><br /><span style="font-size: 12pt;">✔ La conexión a internet y los recursos digitales funcionaban correctamente antes de iniciar la actividad</span><br /><span style="font-size: 12pt;">✔ Las instrucciones se han explicado de forma clara, breve y apoyadas visualmente</span><br /><span style="font-size: 12pt;">✔ Se han utilizado apoyos visuales (pictogramas, imágenes, ejemplos) para facilitar la comprensión</span><br /><span style="font-size: 12pt;">✔ Las actividades han resultado motivadoras para el alumnado</span><br /><span style="font-size: 12pt;">✔ El alumnado ha podido participar de forma activa y autónoma en las tareas</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780224504880-956l42s6d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">Para valorar el desarrollo de la situación de aprendizaje y mejorar la intervención educativa, se utilizará una lista de cotejo basada en la observación directa:</span></p>\n<p><span style=\"font-size: 12pt;\">✔ Se han preparado previamente los dispositivos y aplicaciones necesarias</span><br /><span style=\"font-size: 12pt;\">✔ La conexión a internet y los recursos digitales funcionaban correctamente antes de iniciar la actividad</span><br /><span style=\"font-size: 12pt;\">✔ Las instrucciones se han explicado de forma clara, breve y apoyadas visualmente</span><br /><span style=\"font-size: 12pt;\">✔ Se han utilizado apoyos visuales (pictogramas, imágenes, ejemplos) para facilitar la comprensión</span><br /><span style=\"font-size: 12pt;\">✔ Las actividades han resultado motivadoras para el alumnado</span><br /><span style=\"font-size: 12pt;\">✔ El alumnado ha podido participar de forma activa y autónoma en las tareas</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpvkfyea-mbmgjevl4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpvkfyea-mbmgjevl4</odePageId>
+      <odeBlockId>block-1780224756996-diwp6ak3q</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvkfyea-mbmgjevl4</odePageId>
+          <odeBlockId>block-1780224756996-diwp6ak3q</odeBlockId>
+          <odeIdeviceId>idevice-1780224756983-e10xu2his</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip1_1.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780224756983-e10xu2his","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip1_1.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpvkfyea-mbmgjevl4</odePageId>
+      <odeBlockId>block-1780224899143-fryorwne7</odeBlockId>
+      <blockName>Escala Estimativa</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvkfyea-mbmgjevl4</odePageId>
+          <odeBlockId>block-1780224899143-fryorwne7</odeBlockId>
+          <odeIdeviceId>idevice-1780224899138-0x3v1vbfl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip2.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780224899138-0x3v1vbfl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip2.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpvkfyea-mbmgjevl4</odePageId>
+      <odeBlockId>block-1780224981295-2ltdp8j6e</odeBlockId>
+      <blockName>Pautas DUA en relación a los instrumentos de evaluación</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvkfyea-mbmgjevl4</odePageId>
+          <odeBlockId>block-1780224981295-2ltdp8j6e</odeBlockId>
+          <odeIdeviceId>idevice-1780224981293-ibmdnz98e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 12pt;">Los instrumentos de evaluación diseñados (rúbrica y lista de cotejo) se han elaborado siguiendo principios del Diseño Universal para el Aprendizaje (DUA), con el objetivo de garantizar la accesibilidad, la equidad y la participación de todo el alumnado.</span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;">🔹 Múltiples formas de comprensión</span><br /><span style="font-size: 12pt;">La rúbrica utiliza niveles claros y progresivos que facilitan la comprensión del desempeño esperado.</span><br /><span style="font-size: 12pt;">Se emplea un lenguaje sencillo y estructurado para facilitar su lectura al alumnado de 1º de Primaria.</span><br /><span style="font-size: 12pt;">🔹 Múltiples formas de acción y expresión</span><br /><span style="font-size: 12pt;">Se valora no solo el resultado final, sino también el proceso de participación del alumnado.</span><br /><span style="font-size: 12pt;">Se contemplan diferentes formas de demostrar el aprendizaje (oral, visual, digital y colaborativo).</span><br /><span style="font-size: 12pt;">🔹 Múltiples formas de implicación</span><br /><span style="font-size: 12pt;">Se fomenta la motivación mediante criterios claros que el alumnado conoce previamente.</span><br /><span style="font-size: 12pt;">La evaluación incluye aspectos de participación y trabajo en grupo, favoreciendo la implicación activa.</span><br /><span style="font-size: 12pt;">🔹 Accesibilidad y apoyo</span><br /><span style="font-size: 12pt;">Posibilidad de acompañamiento docente durante el proceso de evaluación.</span><br /><span style="font-size: 12pt;">Adaptación del lenguaje y de las expectativas a la etapa educativa (1º de Primaria).</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780224981293-ibmdnz98e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">Los instrumentos de evaluación diseñados (rúbrica y lista de cotejo) se han elaborado siguiendo principios del Diseño Universal para el Aprendizaje (DUA), con el objetivo de garantizar la accesibilidad, la equidad y la participación de todo el alumnado.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">🔹 Múltiples formas de comprensión</span><br /><span style=\"font-size: 12pt;\">La rúbrica utiliza niveles claros y progresivos que facilitan la comprensión del desempeño esperado.</span><br /><span style=\"font-size: 12pt;\">Se emplea un lenguaje sencillo y estructurado para facilitar su lectura al alumnado de 1º de Primaria.</span><br /><span style=\"font-size: 12pt;\">🔹 Múltiples formas de acción y expresión</span><br /><span style=\"font-size: 12pt;\">Se valora no solo el resultado final, sino también el proceso de participación del alumnado.</span><br /><span style=\"font-size: 12pt;\">Se contemplan diferentes formas de demostrar el aprendizaje (oral, visual, digital y colaborativo).</span><br /><span style=\"font-size: 12pt;\">🔹 Múltiples formas de implicación</span><br /><span style=\"font-size: 12pt;\">Se fomenta la motivación mediante criterios claros que el alumnado conoce previamente.</span><br /><span style=\"font-size: 12pt;\">La evaluación incluye aspectos de participación y trabajo en grupo, favoreciendo la implicación activa.</span><br /><span style=\"font-size: 12pt;\">🔹 Accesibilidad y apoyo</span><br /><span style=\"font-size: 12pt;\">Posibilidad de acompañamiento docente durante el proceso de evaluación.</span><br /><span style=\"font-size: 12pt;\">Adaptación del lenguaje y de las expectativas a la etapa educativa (1º de Primaria).</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpvkfyec-np2a5joby</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpvkfyec-np2a5joby</odePageId>
+      <odeBlockId>block-1780225552343-62kwyf0jj</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvkfyec-np2a5joby</odePageId>
+          <odeBlockId>block-1780225552343-62kwyf0jj</odeBlockId>
+          <odeIdeviceId>idevice-1780225552337-txcb2yslq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100.023%; height: 464.4px;">
+<tbody>
+<tr style="height: 37.6px;">
+<td style="width: 49.9419%; height: 37.6px;"><span style="font-size: 12pt;"><strong>Título</strong></span><br /></td>
+<td style="width: 49.9419%; height: 37.6px;"><span style="font-size: 12pt;">La conservación de la posidonia</span><br /></td>
+</tr>
+<tr style="height: 37.6px;">
+<td style="width: 49.9419%; height: 37.6px;"><span style="font-size: 12pt;"><strong>Autoría</strong></span></td>
+<td style="width: 49.9419%; height: 37.6px;"><span style="font-size: 12pt;">María Gloria Ruiz Gutiérrez</span></td>
+</tr>
+<tr style="height: 124px;">
+<td style="width: 49.9419%; height: 124px;"><span style="font-size: 12pt;"><strong>Descripción</strong></span></td>
+<td style="width: 49.9419%; height: 124px;"><span style="font-size: 12pt;">Recurso educativo diseñado con eXeLearning como Situación de Aprendizaje basada en el aprendizaje competencial y el uso de herramientas digitales.</span></td>
+</tr>
+<tr style="height: 19.6px;">
+<td style="width: 49.9419%; height: 19.6px;"><span style="font-size: 12pt;"><strong>Licencia de uso</strong></span></td>
+<td style="width: 49.9419%; height: 19.6px;"><span style="font-size: 12pt;">Creative Commons BY-SA 4.0</span></td>
+</tr>
+<tr style="height: 37.6px;">
+<td style="width: 49.9419%; height: 37.6px;"><span style="font-size: 12pt;"><strong>Herramientas utilizadas</strong></span></td>
+<td style="width: 49.9419%; height: 37.6px;"><span style="font-size: 12pt;">Google Maps, Gmail, Google Lens, Genially, Symbaloo, Padlet</span></td>
+</tr>
+<tr style="height: 37.6px;">
+<td style="width: 49.9419%; height: 37.6px;"><span style="font-size: 12pt;"><strong>Recursos externos</strong></span></td>
+<td style="width: 49.9419%; height: 37.6px;"><span style="font-size: 12pt;">Imágenes de bancos libres (Pixabay, Unsplash) y recursos educativos abiertos</span></td>
+</tr>
+<tr style="height: 37.6px;">
+<td style="width: 49.9419%; height: 37.6px;"><strong><span style="font-size: 12pt;">Herramientas de creación </span></strong></td>
+<td style="width: 49.9419%; height: 37.6px;"><span style="font-size: 12pt;">eXeLearning (software libre para la creación de recursos educativos)</span></td>
+</tr>
+<tr>
+<td style="width: 49.9419%;"><strong><span style="font-size: 12pt;">Archivo descargable </span></strong></td>
+<td style="width: 49.9419%;"><span style="font-size: 12pt;"><br /></span></td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;">Este recurso es abierto y puede ser reutilizado, modificado y compartido respetando la licencia indicada.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780225552337-txcb2yslq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100.023%; height: 464.4px;\">\n<tbody>\n<tr style=\"height: 37.6px;\">\n<td style=\"width: 49.9419%; height: 37.6px;\"><span style=\"font-size: 12pt;\"><strong>Título</strong></span><br /></td>\n<td style=\"width: 49.9419%; height: 37.6px;\"><span style=\"font-size: 12pt;\">La conservación de la posidonia</span><br /></td>\n</tr>\n<tr style=\"height: 37.6px;\">\n<td style=\"width: 49.9419%; height: 37.6px;\"><span style=\"font-size: 12pt;\"><strong>Autoría</strong></span></td>\n<td style=\"width: 49.9419%; height: 37.6px;\"><span style=\"font-size: 12pt;\">María Gloria Ruiz Gutiérrez</span></td>\n</tr>\n<tr style=\"height: 124px;\">\n<td style=\"width: 49.9419%; height: 124px;\"><span style=\"font-size: 12pt;\"><strong>Descripción</strong></span></td>\n<td style=\"width: 49.9419%; height: 124px;\"><span style=\"font-size: 12pt;\">Recurso educativo diseñado con eXeLearning como Situación de Aprendizaje basada en el aprendizaje competencial y el uso de herramientas digitales.</span></td>\n</tr>\n<tr style=\"height: 19.6px;\">\n<td style=\"width: 49.9419%; height: 19.6px;\"><span style=\"font-size: 12pt;\"><strong>Licencia de uso</strong></span></td>\n<td style=\"width: 49.9419%; height: 19.6px;\"><span style=\"font-size: 12pt;\">Creative Commons BY-SA 4.0</span></td>\n</tr>\n<tr style=\"height: 37.6px;\">\n<td style=\"width: 49.9419%; height: 37.6px;\"><span style=\"font-size: 12pt;\"><strong>Herramientas utilizadas</strong></span></td>\n<td style=\"width: 49.9419%; height: 37.6px;\"><span style=\"font-size: 12pt;\">Google Maps, Gmail, Google Lens, Genially, Symbaloo, Padlet</span></td>\n</tr>\n<tr style=\"height: 37.6px;\">\n<td style=\"width: 49.9419%; height: 37.6px;\"><span style=\"font-size: 12pt;\"><strong>Recursos externos</strong></span></td>\n<td style=\"width: 49.9419%; height: 37.6px;\"><span style=\"font-size: 12pt;\">Imágenes de bancos libres (Pixabay, Unsplash) y recursos educativos abiertos</span></td>\n</tr>\n<tr style=\"height: 37.6px;\">\n<td style=\"width: 49.9419%; height: 37.6px;\"><strong><span style=\"font-size: 12pt;\">Herramientas de creación </span></strong></td>\n<td style=\"width: 49.9419%; height: 37.6px;\"><span style=\"font-size: 12pt;\">eXeLearning (software libre para la creación de recursos educativos)</span></td>\n</tr>\n<tr>\n<td style=\"width: 49.9419%;\"><strong><span style=\"font-size: 12pt;\">Archivo descargable </span></strong></td>\n<td style=\"width: 49.9419%;\"><span style=\"font-size: 12pt;\"><br /></span></td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">Este recurso es abierto y puede ser reutilizado, modificado y compartido respetando la licencia indicada.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpvkfyed-85218bwy0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía Didáctica</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpvkfyed-85218bwy0</odePageId>
+      <odeBlockId>block-1780331509929-unu1fzp0d</odeBlockId>
+      <blockName>Contextualización</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvkfyed-85218bwy0</odePageId>
+          <odeBlockId>block-1780331509929-unu1fzp0d</odeBlockId>
+          <odeIdeviceId>idevice-1780331509928-3ebn6ack1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 12pt;">Esta Situación de Aprendizaje está diseñada para un aula TEA. El eje central del proyecto es la conservación de la posidonia oceánica, un elemento clave del ecosistema marino mediterráneo.</span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;">El alumnado trabajará de forma guiada, estructurada y visual, utilizando herramientas digitales sencillas y recursos adaptados a sus necesidades de comunicación, comprensión y autorregulación</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780331509928-3ebn6ack1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">Esta Situación de Aprendizaje está diseñada para un aula TEA. El eje central del proyecto es la conservación de la posidonia oceánica, un elemento clave del ecosistema marino mediterráneo.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">El alumnado trabajará de forma guiada, estructurada y visual, utilizando herramientas digitales sencillas y recursos adaptados a sus necesidades de comunicación, comprensión y autorregulación</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpvkfyed-85218bwy0</odePageId>
+      <odeBlockId>block-1780331571219-f8woxxc32</odeBlockId>
+      <blockName>Objetivos didácticos</blockName>
+      <iconName>objetives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvkfyed-85218bwy0</odePageId>
+          <odeBlockId>block-1780331571219-f8woxxc32</odeBlockId>
+          <odeIdeviceId>idevice-1780331571216-pcoray54n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 12pt;">- Conocer la importancia de la posidonia para el ecosistema marino. <br />- Identificar acciones humanas que afectan al medio ambiente. <br />- Desarrollar hábitos de respeto y cuidado del entorno natural. <br />- Utilizar herramientas digitales básicas de forma funcional y guiada. <br />- Favorecer la comunicación, la participación y el trabajo cooperativo. </span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780331571216-pcoray54n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">- Conocer la importancia de la posidonia para el ecosistema marino. <br />- Identificar acciones humanas que afectan al medio ambiente. <br />- Desarrollar hábitos de respeto y cuidado del entorno natural. <br />- Utilizar herramientas digitales básicas de forma funcional y guiada. <br />- Favorecer la comunicación, la participación y el trabajo cooperativo. </span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpvkfyed-85218bwy0</odePageId>
+      <odeBlockId>block-1780331636137-6gsavkqn4</odeBlockId>
+      <blockName>Metodología</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvkfyed-85218bwy0</odePageId>
+          <odeBlockId>block-1780331636137-6gsavkqn4</odeBlockId>
+          <odeIdeviceId>idevice-1780331636134-ktbn8pzlz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 12pt;"></span><span style="font-size: 12pt;">La metodología se basa en principios inclusivos y en el Diseño Universal para el Aprendizaje (DUA):</span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;">- Aprendizaje basado en proyectos (ABP) </span><br /><span style="font-size: 12pt;">- Enseñanza estructurada y predecible </span><br /><span style="font-size: 12pt;">- Apoyos visuales constantes (pictogramas, ejemplos, modelos) </span><br /><span style="font-size: 12pt;">- Trabajo guiado con apoyos del docente </span><br /><span style="font-size: 12pt;">- Aprendizaje cooperativo en pequeño grupo </span><br /><span style="font-size: 12pt;">- Secuenciación clara de tareas </span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;"></span><span style="font-size: 12pt;">Se prioriza la comprensión, la participación y la experiencia práctica frente a la memorización.</span></p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780331636134-ktbn8pzlz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\"></span><span style=\"font-size: 12pt;\">La metodología se basa en principios inclusivos y en el Diseño Universal para el Aprendizaje (DUA):</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">- Aprendizaje basado en proyectos (ABP) </span><br /><span style=\"font-size: 12pt;\">- Enseñanza estructurada y predecible </span><br /><span style=\"font-size: 12pt;\">- Apoyos visuales constantes (pictogramas, ejemplos, modelos) </span><br /><span style=\"font-size: 12pt;\">- Trabajo guiado con apoyos del docente </span><br /><span style=\"font-size: 12pt;\">- Aprendizaje cooperativo en pequeño grupo </span><br /><span style=\"font-size: 12pt;\">- Secuenciación clara de tareas </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\"></span><span style=\"font-size: 12pt;\">Se prioriza la comprensión, la participación y la experiencia práctica frente a la memorización.</span></p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpvkfyed-85218bwy0</odePageId>
+      <odeBlockId>block-1780331742010-84k0nb72q</odeBlockId>
+      <blockName>Atención a la diversidad</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvkfyed-85218bwy0</odePageId>
+          <odeBlockId>block-1780331742010-84k0nb72q</odeBlockId>
+          <odeIdeviceId>idevice-1780331742006-qr4cpdhcv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 12pt;"></span><span style="font-size: 12pt; text-align: start;">Se aplican medidas para garantizar la accesibilidad de todo el alumnado:</span></p>
+<p><span style="font-size: 12pt;">- Uso de imágenes, pictogramas y vídeos </span><br /><span style="font-size: 12pt;">- Explicaciones cortas y estructuradas </span><br /><span style="font-size: 12pt;">- de herramientas sencillas (Genially, Google Maps, Gmail) <br /></span><span style="font-size: 12pt;">- Actividades motivadoras y contextualizadas </span><br /><span style="font-size: 12pt;">- Trabajo en equipo </span><br /><span style="font-size: 12pt;">- Refuerzo positivo continuo </span><br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780331742006-qr4cpdhcv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\"></span><span style=\"font-size: 12pt; text-align: start;\">Se aplican medidas para garantizar la accesibilidad de todo el alumnado:</span></p>\n<p><span style=\"font-size: 12pt;\">- Uso de imágenes, pictogramas y vídeos </span><br /><span style=\"font-size: 12pt;\">- Explicaciones cortas y estructuradas </span><br /><span style=\"font-size: 12pt;\">- de herramientas sencillas (Genially, Google Maps, Gmail) <br /></span><span style=\"font-size: 12pt;\">- Actividades motivadoras y contextualizadas </span><br /><span style=\"font-size: 12pt;\">- Trabajo en equipo </span><br /><span style=\"font-size: 12pt;\">- Refuerzo positivo continuo </span><br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpvkfyed-85218bwy0</odePageId>
+      <odeBlockId>block-1780331902358-3udu1j2zn</odeBlockId>
+      <blockName>Organización del aula</blockName>
+      <iconName>stop</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvkfyed-85218bwy0</odePageId>
+          <odeBlockId>block-1780331902358-3udu1j2zn</odeBlockId>
+          <odeIdeviceId>idevice-1780331902353-xlqctrmc6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 12pt;">- Rutinas claras y estructuradas </span><br /><span style="font-size: 12pt;">- Anticipación de actividades mediante secuencias visuales </span><br /><span style="font-size: 12pt;">- Reducción de la carga cognitiva por tareas </span><br /><span style="font-size: 12pt;">- Apoyo individualizado cuando sea necesario </span><br /><span style="font-size: 12pt;">- Alternativas en caso de sobrecarga o dificultades técnicas </span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780331902353-xlqctrmc6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">- Rutinas claras y estructuradas </span><br /><span style=\"font-size: 12pt;\">- Anticipación de actividades mediante secuencias visuales </span><br /><span style=\"font-size: 12pt;\">- Reducción de la carga cognitiva por tareas </span><br /><span style=\"font-size: 12pt;\">- Apoyo individualizado cuando sea necesario </span><br /><span style=\"font-size: 12pt;\">- Alternativas en caso de sobrecarga o dificultades técnicas </span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpvkfyed-85218bwy0</odePageId>
+      <odeBlockId>block-1780331965395-udemvi66f</odeBlockId>
+      <blockName>Evaluación</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvkfyed-85218bwy0</odePageId>
+          <odeBlockId>block-1780331965395-udemvi66f</odeBlockId>
+          <odeIdeviceId>idevice-1780331965393-bbvo65u7l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 12pt;">La evaluación será formativa y global.</span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;">Las técnicas empleadas serán: </span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;">- La observación directa<br />- Las producciones orales y escritas<br />- El uso funcional de las herramientas digitales</span><span style="font-size: 12pt;"></span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;">Los instrumentos empleados serán: </span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;">- Rúbrica<br />- Lista de cotejo</span><span style="font-size: 12pt;"></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780331965393-bbvo65u7l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">La evaluación será formativa y global.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">Las técnicas empleadas serán: </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">- La observación directa<br />- Las producciones orales y escritas<br />- El uso funcional de las herramientas digitales</span><span style=\"font-size: 12pt;\"></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">Los instrumentos empleados serán: </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">- Rúbrica<br />- Lista de cotejo</span><span style=\"font-size: 12pt;\"></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
